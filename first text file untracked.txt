@@ -1,0 +1,4 @@
+first text file 
+
+git add <file> is not apply for thie file and no track
+even made a changes no trace
