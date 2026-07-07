@@ -92,3 +92,12 @@ Author: w3schools-test
 Date:   Fri Mar 26 09:13:07 2021 +0100
 
     First release of Hello World!
+	
+Other Useful Commit Options
+Create an empty commit:
+git commit --allow-empty -m "Start project"
+Use previous commit message (no editor):
+git commit --no-edit
+Quickly add staged changes to last commit, keep message:
+git commit --amend --no-edit
+
