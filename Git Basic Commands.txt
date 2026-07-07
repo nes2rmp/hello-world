@@ -101,3 +101,11 @@ git commit --no-edit
 Quickly add staged changes to last commit, keep message:
 git commit --amend --no-edit
 
+Key Commands for Viewing History
+git log - Show full commit history
+git log --oneline - Show a summary of commits
+git show <commit> - Show details of a specific commit
+git diff - See unstaged changes
+git diff --staged - See staged changes
+
+
