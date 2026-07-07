@@ -1,4 +1,4 @@
-readme
+readme 07.07.2026
 
 Git and GitHub Introduction
 What is Git?
