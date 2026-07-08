@@ -108,6 +108,9 @@ git show <commit> - Show details of a specific commit
 git diff - See unstaged changes
 git diff --staged - See staged changes
 
+-------------------------------------------------------------------------------
+
+
 
 Git Glossary
 Git Glossary
