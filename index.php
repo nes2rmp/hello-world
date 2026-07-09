@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Hello world</h1>
 
-</body>
-</html>
+<p>This is the main page for turorial</p>
+</br>
+<h2>We'll see if we could make any conflict with mangyan tribe
+</html	>
+
